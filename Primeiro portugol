@@ -1,7 +1,0 @@
-programa { 
-  funcao inicio() { 
-    escreva("Hello") 
-    escreva("My name is Rafael") 
-    escreva("I living in Bahia") 
-  } 
-}
